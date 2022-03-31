@@ -1,0 +1,5 @@
+.active:hover{
+    transition: 0.2s;
+    background-color: rgba(233, 230, 225, 0.582);
+    opacity: 0.6;
+}
